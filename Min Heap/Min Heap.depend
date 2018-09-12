@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1536760038 source:c:\users\larisa\desktop\min heap\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+
